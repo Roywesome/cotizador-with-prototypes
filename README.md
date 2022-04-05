@@ -1,2 +1,2 @@
 # cotizador-with-prototypes
-Pequeño proyecto de cotizador de seguro de autos
+Proyecto cotizador de seguros para autos usando prototypes
